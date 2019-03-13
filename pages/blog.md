@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: News
-permalink: /News
+permalink: /blog
 section: News
 intro_paragraph: >
   This is the Blog index page, listing each post with an
