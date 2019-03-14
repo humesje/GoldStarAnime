@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Post
-author: Jerald_Humes
+author: jerald_humes
 date: '2019-03-13 4:54:32'
 intro_paragraph: ''
 categories: news
