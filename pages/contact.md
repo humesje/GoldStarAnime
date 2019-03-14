@@ -13,4 +13,4 @@ intro_paragraph: |-
   Alternatively, you can reach out to us on our [Facebook](https://www.facebook.com/profile.php?id=242981153930&epa=SEARCH_BOX)
 ---
 
-**Send us a message**
+**Sent us an inquiry directly!**
